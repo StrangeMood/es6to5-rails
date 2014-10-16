@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.authors       = ['Anatoly Lapshin']
   spec.email         = ['holywarez@gmail.com']
   spec.summary       = %q{Simple gem to translate ECMAScript 6 scripts to ES5 ones using 6to5}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.description   = %q{Simple gem to translate ECMAScript 6 scripts to ES5 ones using 6to5}
   spec.homepage      = ''
   spec.license       = 'MIT'
 
